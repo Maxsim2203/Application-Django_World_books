@@ -12,8 +12,10 @@
 1) Главная форма 
 
 ![image](https://user-images.githubusercontent.com/95234863/195976157-9d16fa20-ee35-40bc-b784-684b23105254.png)
- Код главной формы 
+
+
  '''
+ 
  namespace WinFormsApp1
 {
     public partial class Form1 : Form
@@ -40,11 +42,16 @@
             f.Show();
         }
     }
+    
+    
  '''
+ 
   2) Авторизация
   ![image](https://user-images.githubusercontent.com/95234863/195976221-af2abd5f-fe93-4603-99bd-7a1f2648c3c2.png)
 
+
   '''
+  
   using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -110,12 +117,15 @@ namespace WinFormsApp1
 
         }
     }
+    
   '''
   
   3) О программе
   ![image](https://user-images.githubusercontent.com/95234863/195976260-be90f89d-1570-41a1-b9ee-ec5fe7853c83.png)
 
+
   '''
+  
   using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -150,13 +160,16 @@ namespace WinFormsApp1
             this.Close();
         }
     }
+    
   '''
   
   4) Капча
+  
   ![image](https://user-images.githubusercontent.com/95234863/195976346-e5ae68ba-b437-4cb1-b220-87a9ab28a70f.png)
 
   '''
-  using System;
+  
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -290,6 +303,7 @@ for (int i = 0; i < 5; ++i)
   '''
   
   5) Форма вывода таблицы 
+ 
   ![image](https://user-images.githubusercontent.com/95234863/195976402-a684ead6-59f8-4c44-ab76-41d25cbd64ef.png)
 
   '''
@@ -332,6 +346,8 @@ namespace WinFormsApp1
   '''
   
   Так же для нормального вывода таблицы был создан класс 
+  
+  
   '''
   using System;
 using System.Collections.Generic;
