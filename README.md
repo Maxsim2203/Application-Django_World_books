@@ -120,11 +120,7 @@ namespace WinFormsApp1
     
   '''
   
-  3) О программе
-  ![image](https://user-images.githubusercontent.com/95234863/195976260-be90f89d-1570-41a1-b9ee-ec5fe7853c83.png)
-
-
-  '''
+    '''
   
   using System;
 using System.Collections.Generic;
