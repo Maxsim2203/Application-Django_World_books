@@ -117,7 +117,7 @@ namespace WinFormsApp1
     }
     
   '''
-  
+  Загрузка второй формы
     '''
   
   using System;
